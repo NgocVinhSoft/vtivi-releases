@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "versionCode": 7,
-  "notes": "Sửa lỗi vòng lặp cập nhật, đổi phím remote, xóa tìm kiếm và làm trong suốt danh sách kênh/danh mục.",
+  "version": "1.0.8",
+  "versionCode": 8,
+  "notes": "Sửa nền list danh sách và category.",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
