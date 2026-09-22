@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "versionCode": 9,
-  "notes": "Update list danh sách kênh.",
+  "version": "1.0.10",
+  "versionCode": 10,
+  "notes": "Cải thiện tốc độ load trang.",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
