@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "versionCode": 12,
-  "notes": "Build lại code mới bằng Android.",
+  "version": "1.0.13",
+  "versionCode": 13,
+  "notes": "Update giao diện",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
