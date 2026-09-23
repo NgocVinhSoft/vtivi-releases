@@ -1,7 +1,7 @@
 {
   "version": "1.0.12",
   "versionCode": 12,
-  "notes": "Chuyển đổi sang code Android apk.",
+  "notes": "Build lại code mới bằng Android.",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
