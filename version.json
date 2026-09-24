@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "versionCode": 14,
-  "notes": "Update giao diện modal vào giữa màn hình",
+  "version": "1.0.15",
+  "versionCode": 15,
+  "notes": "Cải hiện tốc độ load kênh",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
