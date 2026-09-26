@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "versionCode": 15,
-  "notes": "Cải hiện tốc độ load kênh",
+  "version": "1.0.16",
+  "versionCode": 16,
+  "notes": "Cải hiện tốc độ load kênh, Thêm tuy chọn add playlist ",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk",
   "apk_url": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/app-debug.apk"
 }
