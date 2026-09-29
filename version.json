@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "versionCode": 19,
+  "version": "1.0.20",
+  "versionCode": 20,
   "notes": "Cải thiện tốc độ tải kênh, tối ưu cache và tự động hóa release.",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
