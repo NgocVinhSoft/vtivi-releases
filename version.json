@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "versionCode": 22,
+  "version": "1.0.23",
+  "versionCode": 23,
   "notes": "Thêm tính năng nhập m3u bằng QR.",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
