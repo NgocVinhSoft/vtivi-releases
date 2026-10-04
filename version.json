@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "versionCode": 24,
-  "notes": "Cập nhật UI tính năng nhập m3u bằng QR.",
+  "version": "1.0.25",
+  "versionCode": 25,
+  "notes": "Thêm tính năng xem lịch phát sóng của từng kênh",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
