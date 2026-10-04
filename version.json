@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "versionCode": 26,
-  "notes": "Cải thiện tốc độ load kênh khi mở app và giao diện nhập m3u",
+  "version": "1.0.27",
+  "versionCode": 27,
+  "notes": "Thêm chức năng lưu kênh yêu thích",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
