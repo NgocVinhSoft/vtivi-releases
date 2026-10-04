@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
-  "versionCode": 25,
-  "notes": "Thêm tính năng xem lịch phát sóng của từng kênh",
+  "version": "1.0.26",
+  "versionCode": 26,
+  "notes": "Cải thiện tốc độ load kênh khi mở app và giao diện nhập m3u",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
