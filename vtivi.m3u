@@ -52,11 +52,12 @@ https://vtvgolive-ssaimh.vtvdigital.vn/rlrs_A0MCl3vE3vu5JqPBw/1792848033/manifes
 #http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 #EXTINF:-1 group-title="THVL" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vinh-long-2_165657385615.png",Vĩnh Long 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://live.thvli.vn/thvl2/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=26
 #https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-2/KenhCoBan.m3u8
 #EXTINF:-1 group-title="THVL" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vinh-long-3_165657386388.png",Vĩnh Long 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-3/KenhCoBan.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-3/KenhCoBan.m3u8
 #EXTINF:-1 group-title="THVL" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png",Vĩnh Long 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=220
