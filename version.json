@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "versionCode": 40,
-  "notes": "Tăng tốc độ chuyển đổi playlist / Fix có thể ở kênh ở nhóm kênh ngoài màn hình",
+  "version": "1.1.41",
+  "versionCode": 41,
+  "notes": "Chỉnh sửa giao diện setting",
   "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
 }
