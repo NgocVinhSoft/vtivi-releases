@@ -1,6 +1,6 @@
 {
-  "version": "1.1.41",
-  "versionCode": 41,
-  "notes": "Chỉnh sửa giao diện setting",
-  "apkUrl": "https://github.com/NgocVinhSoft/vtivi-releases/raw/refs/heads/main/vtivi.apk"
+  "version": "1.1.42",
+  "versionCode": 42,
+  "notes": "Đổi tên vtivi thành Vplay",
+  "apkUrl": "https://github.com/NgocVinhSoft/vplay-releases/raw/refs/heads/main/vplay-iptv.apk"
 }
