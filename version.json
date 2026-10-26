@@ -1,6 +1,6 @@
 {
-  "version": "1.1.44",
-  "versionCode": 44,
+  "version": "1.1.46",
+  "versionCode": 46,
   "notes": "⚡ Tăng 50% tốc độ nạp & chuyển kênh Live TV\n🎨 Giao diện Quick Sidebar mới tối ưu D-pad\n🐛 Sửa lỗi dính khung hình & màn hình đen VOD",
   "apkUrl": "https://github.com/NgocVinhSoft/vplay/raw/refs/heads/main/vplay-iptv.apk"
 }
